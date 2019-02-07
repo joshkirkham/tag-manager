@@ -1,0 +1,22 @@
+TEST ALL FUNCTIONALITY FOR CURRENTLY WRITTEN STUFF
+
+Write DatafilesP
+
+Add a chaching mechanism for tags in TagP.py
+    There should be a read/write buffer. new tag edits should be cached until they can
+    be written.
+    This will probably require a function to add a list of urns to a tag
+
+    You can either add/remove a list of URN's to a single tag or
+    add/remove a singel URN to a list of tags. Can I combine both into a single
+    efficient process?
+
+
+
+
+implement close methods for all of the processes
+
+
+Add the pics from favorites-6-2018 as splash screen
+
+
